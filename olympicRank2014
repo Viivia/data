@@ -1,0 +1,31 @@
+Country ,Medal ,Results,Total,Rank,Year 
+ROC,G,11,29,1,2014
+ROC,S,10,29,1,2014
+ROC,B,9,29,1,2014
+USA,G,9,28,2,2014
+USA,S,9,28,2,2014
+USA,B,10,28,2,2014
+Norway,G,11,26,3,2014
+Norway,S,5,26,3,2014
+Norway,B,10,26,3,2014
+Canada ,G,10,25,4,2014
+Canada ,S,10,25,4,2014
+Canada ,B,5,25,4,2014
+Netherlands,G,8,24,5,2014
+Netherlands,S,7,24,5,2014
+Netherlands,B,9,24,5,2014
+Germany,G,8,19,6,2014
+Germany,S,6,19,6,2014
+Germany,B,5,19,6,2014
+Austria,G,4,17,7,2014
+Austria,S,8,17,7,2014
+Austria,B,5,17,7,2014
+Switzerland,G,7,15,8,2014
+Switzerland,S,2,15,8,2014
+Switzerland,B,2,15,8,2014
+Sweden,G,2,15,8,2014
+Sweden,S,7,15,8,2014
+Sweden,B,6,15,8,2014
+France,G,4,15,8,2014
+France,S,4,15,8,2014
+France,B,7,15,8,2014
